@@ -1,10 +1,10 @@
 <!doctype html>
-<html lang="en">
+<html lang="ja">
 
     <head>
         <meta charset="utf-8">
 
-        <title>DMX Info</title>
+        <title>DMX512</title>
 
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
@@ -13,7 +13,7 @@
 
         <link rel="stylesheet" href="bower_components/reveal.js/css/reveal.min.css">
     
-        <link rel="stylesheet" href="bower_components/reveal.js/css/theme/moon.css" id="theme">
+        <link rel="stylesheet" href="bower_components/reveal.js/css/theme/serif.css" id="theme">
     
 
         <!-- For syntax highlighting -->
